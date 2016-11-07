@@ -1,0 +1,12 @@
+.style{
+  padding: 10px;
+  border: solid 5px #c9c9c9;
+  box-shadow: inset 0 0 0 1px #707070;
+  transition: box-shadow 0.3s, border 0.3s;
+  margin-left: 10em;
+  margin-top: 1.5em;
+  align: center;
+}
+.style :focus {
+  border: solid 5px #969696;
+}

@@ -1,0 +1,1 @@
+In your browsing session, opening many tabs is quite common but going back to one opened is quite irritating and slow. You have to either look up each opened tab to check or search through your browser history. And the worst thing is the huge memory these opened tabs take which mostly leads to crashes.
